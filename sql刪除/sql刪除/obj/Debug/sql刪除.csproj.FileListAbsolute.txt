@@ -1,0 +1,10 @@
+D:\C#\sql刪除\sql刪除\obj\Debug\sql刪除.csprojAssemblyReference.cache
+D:\C#\sql刪除\sql刪除\obj\Debug\sql刪除.Form1.resources
+D:\C#\sql刪除\sql刪除\obj\Debug\sql刪除.Properties.Resources.resources
+D:\C#\sql刪除\sql刪除\obj\Debug\sql刪除.csproj.GenerateResource.cache
+D:\C#\sql刪除\sql刪除\obj\Debug\sql刪除.csproj.CoreCompileInputs.cache
+D:\C#\sql刪除\sql刪除\bin\Debug\sql刪除.exe.config
+D:\C#\sql刪除\sql刪除\bin\Debug\sql刪除.exe
+D:\C#\sql刪除\sql刪除\bin\Debug\sql刪除.pdb
+D:\C#\sql刪除\sql刪除\obj\Debug\sql刪除.exe
+D:\C#\sql刪除\sql刪除\obj\Debug\sql刪除.pdb
